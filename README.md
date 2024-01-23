@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruan-nascimento&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-nascimento)](https://github.com/Ruan-nascimento/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-nascimento)](https://github.com/Ruan-nascimento/github-readme-stats)-->
 
 ### Tecnologias Em Andamento💯
 
