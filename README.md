@@ -1,6 +1,6 @@
 
 
-## Olá Prazer, Sou Ruan Nascimento🍃
+## Hello World, Ruan Carlos here!🍃
 
 ### Minhas Redes
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruancarloss19_/)
@@ -11,6 +11,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-nascimento)](https://github.com/Ruan-nascimento/github-readme-stats)-->
 
 ### Tecnologias Em Andamento💯
+### Tecnologies in Progress💯
 
 <div style="display: inline_block"></br>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -24,6 +25,7 @@
 ### ________________________________________________________________________________________
 </br>
 
-#### Apaixonado Pelo Mundo da Tecnologia, Sempre Buscando Aprender
+#### "In love with the world of technology, always seeking to learn new things."
+#### "Apaixonado Pelo Mundo da Tecnologia, Sempre Buscando Aprender Coisas Novas."
 <a href="ruan.nascimento019@gmail.com" style="color: blue">ruan.nascimento019@gmail.com</a>
 
