@@ -27,5 +27,4 @@
 
 #### "In love with the world of technology, always seeking to learn new things."
 #### "Apaixonado Pelo Mundo da Tecnologia, Sempre Buscando Aprender Coisas Novas."
-<a href="ruan.nascimento019@gmail.com" style="color: blue">ruan.nascimento019@gmail.com</a>
 
