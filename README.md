@@ -5,12 +5,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruan-nascimento&bg_color=0d1117&color=5d8aa8&line=5d8aa8&point=084d6e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruan-nascimento&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ruan-nascimento&show_icons=true&count_private=true&hide_border=true&title_color=5d8aa8&icon_color=5d8aa8&text_color=5d8aa8&bg_color=0d1117" alt="Ruan Nascimento github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-nascimento&layout=compact&hide_border=true&title_color=5d8aa8&text_color=5d8aa8&bg_color=0d1117" />
@@ -23,23 +17,24 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+### Skills
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=HTML5&logoColor=f5f5f5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=f5f5f5)
+![PYTHON](https://img.shields.io/badge/Python-ffcc00?logo=Python&logoColor=f5f5f5)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffd11a?logo=JavaScript&logoColor=f5f5f5)
+
+### Skills in Learning
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffd11a?logo=JavaScript&logoColor=f5f5f5)
+![TYPESCRIPT](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5)
+![NODE](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=f5f5f5)
+![MYSQL](https://img.shields.io/badge/MYSQL-00334d?logo=mysql&logoColor=f5f5f5)
 
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ruan-nascimento}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d8aa8&height=120&section=footer"/>
