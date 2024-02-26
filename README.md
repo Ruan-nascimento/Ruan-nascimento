@@ -28,7 +28,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=f5f5f5)
 ![NODE](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=f5f5f5)
 ![MYSQL](https://img.shields.io/badge/MYSQL-00334d?logo=mysql&logoColor=f5f5f5)
-![React](https://img.shields.io/badge/React-00334d?logo=react&logoColor=f5f5f5)
+![React](https://img.shields.io/badge/React-79b6c9?logo=react&logoColor=f5f5f5)
 
 
 
